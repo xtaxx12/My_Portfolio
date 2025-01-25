@@ -1,0 +1,8 @@
+debemos usar esta verison de tailwind : npm install tailwindcss@3.3.1
+src/
+├── components/      # Componentes reutilizables (Navbar, Footer, etc.)
+├── pages/           # Páginas (Home, About, Projects, Contact)
+├── assets/          # Imágenes, iconos
+├── App.jsx          # Punto principal de la app
+├── index.css        # Estilos globales
+└── main.jsx         # Renderización de React
