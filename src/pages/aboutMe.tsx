@@ -5,7 +5,7 @@ const AboutMe = () => {
     <section id="about" className="my-8 container mx-auto p-4">
       <h2 className="text-2xl font-bold">Sobre Mí</h2>
       <p>
-        ¡Hola! Soy [Tu Nombre], un apasionado desarrollador web con sede en Machala, El Oro, Ecuador. Tengo una fuerte pasión por crear experiencias web atractivas y funcionales, y me encanta trabajar con tecnologías modernas como <strong>React</strong>, <strong>Tailwind CSS</strong>, <strong>Angular</strong> y <strong>Material UI</strong>.
+        ¡Hola! Soy Joel, un apasionado desarrollador web con sede en Machala, El Oro, Ecuador. Tengo una fuerte pasión por crear experiencias web atractivas y funcionales, y me encanta trabajar con tecnologías modernas como <strong>React</strong>, <strong>Tailwind CSS</strong>, <strong>Angular</strong> y <strong>Material UI</strong>.
       </p>
       <h3 className="text-xl font-semibold mt-4">Mis Habilidades:</h3>
       <ul className="list-disc ml-5">
@@ -15,7 +15,7 @@ const AboutMe = () => {
       </ul>
       <h3 className="text-xl font-semibold mt-4">Experiencia:</h3>
       <p>
-        Desarrollador Web en [Nombre de la Empresa], donde he trabajado en la creación de interfaces de usuario intuitivas y responsivas. También he participado en varios proyectos de código abierto y colaborativos.
+        Desarrollador Web en YAKUSOFT, donde he trabajado en la creación de interfaces de usuario intuitivas y responsivas. También he participado en varios proyectos de código abierto y colaborativos.
       </p>
       <h3 className="text-xl font-semibold mt-4">Pasatiempos:</h3>
       <ul className="list-disc ml-5">
@@ -25,9 +25,9 @@ const AboutMe = () => {
       </ul>
       <h3 className="text-xl font-semibold mt-4">Contáctame:</h3>
       <p>
-        <strong>Email:</strong> <a href="mailto:tu-email@example.com">tu-email@example.com</a><br />
-        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/tu-usuario">tu-linkedin</a><br />
-        <strong>GitHub:</strong> <a href="https://github.com/tu-usuario">tu-github</a>
+        <strong>Email:</strong> <a href="mailto:rojassebas765@gmail.com">rojassebas765@gmail.com</a><br />
+        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/joel-rojas-598b22283/">Mi Linkedin</a><br />
+        <strong>GitHub:</strong> <a href="https://github.com/xtaxx12">Mi-github</a>
       </p>
     </section>
   );
